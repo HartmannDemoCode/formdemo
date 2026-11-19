@@ -1,0 +1,127 @@
+{
+  "books": [
+    {
+      "id": "101",
+      "title": "pariatur voluptas officiis",
+      "author": "Hubert Runolfsson",
+      "rating": 0.8,
+      "year_published": 1840
+    },
+    {
+      "id": "102",
+      "title": "commodi qui exercitationem dignissimos",
+      "author": "Flossie Hettinger",
+      "rating": 3.7,
+      "year_published": 1885
+    },
+    {
+      "id": "103",
+      "title": "ratione perferendis et et",
+      "author": "Virginie Orn",
+      "rating": 2.85,
+      "year_published": 1784
+    },
+    {
+      "id": "104",
+      "title": "saepe est velit illum",
+      "author": "Kaley Larkin",
+      "rating": 4.6,
+      "year_published": 1759
+    },
+    {
+      "id": "105",
+      "title": "officia",
+      "author": "Earlene Marvin",
+      "rating": 4,
+      "year_published": 1863
+    },
+    {
+      "id": "106",
+      "title": "eveniet exercitationem aliquid quia",
+      "author": "Palma Lang",
+      "rating": 0.85,
+      "year_published": 1883
+    },
+    {
+      "id": "107",
+      "title": "quisquam porro maiores",
+      "author": "Gianni Renner",
+      "rating": 0.85,
+      "year_published": 1865
+    },
+    {
+      "id": "108",
+      "title": "minus",
+      "author": "Trenton Dare",
+      "rating": 0.4,
+      "year_published": 1928
+    },
+    {
+      "id": "109",
+      "title": "doloremque dolorem sapiente deserunt dicta",
+      "author": "Rene Williamson",
+      "rating": 3.1,
+      "year_published": 1795
+    },
+    {
+      "id": "110",
+      "title": "illo qui dolores sit non ab",
+      "author": "Devin Parker",
+      "rating": 3.15,
+      "year_published": 1739
+    },
+    {
+      "id": "111",
+      "title": "illum est",
+      "author": "Rollin Goodwin",
+      "rating": 2.3,
+      "year_published": 1941
+    },
+    {
+      "id": "112",
+      "title": "a eos sunt ea non",
+      "author": "Florine Langosh",
+      "rating": 1.3,
+      "year_published": 1851
+    },
+    {
+      "id": "113",
+      "title": "magnam",
+      "author": "Blanca Kilback",
+      "rating": 1.75,
+      "year_published": 1913
+    },
+    {
+      "id": "114",
+      "title": "dolores expedita qui quo",
+      "author": "Silas Hamill",
+      "rating": 3.3,
+      "year_published": 1862
+    },
+    {
+      "id": "115",
+      "title": "corporis magnam nobis voluptatem quisquam voluptatem",
+      "author": "Lyric Braun",
+      "rating": 3.5,
+      "year_published": 1809
+    },
+    {
+      "id": "wfccMJrvZ1Q",
+      "title": "My New BOOOOOOK",
+      "author": "me",
+      "rating": 0,
+      "year_published": 2026
+    },
+    {
+      "id": "n2RIW3PR8BI"
+    },
+    {
+      "title": "Edit",
+      "author": "sdfs",
+      "year_published": "2333",
+      "rating": "4",
+      "id": "Q4wLvhBKiBQ"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
